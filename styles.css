@@ -1,7 +1,18 @@
 
+.fondo-verde{
+    background-color: aquamarine;
+    height: 500px;
+    text-align: center;
+    
+}
+.perfil img {
+    height: 275px;
 
-.imgs img{
-    height: 200px;
-    width: 300px;
 }
 
+.fondo-verde{
+    padding-top: 50px;
+}
+.fondo-verde h1::selection{
+ background-color: transparent ;    
+}

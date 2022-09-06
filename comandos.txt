@@ -1,0 +1,3 @@
+git show  ==> muestra cambios detalladamente
+
+
