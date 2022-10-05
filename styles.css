@@ -28,3 +28,21 @@
 .a{
     height: 85vh;
 }
+
+.form-row input{
+    margin-bottom: 3rem;
+}
+
+
+.form-row button{
+    margin-top: 30px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.enviar{
+    padding: 10px!important; 
+}
