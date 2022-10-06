@@ -1,22 +1,27 @@
 
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0% ,rgba(0,162,255,1) 100%);
-    
+    background-image: url(img/12067352_4884841.jpg);    
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+      
 }
 .foto{
     border-radius: 1000px;
     width: 25%;
 
 }
-
+.titulo{color: rgb(0, 255, 0);}
 .img-thumbnail{
     border-radius: 100px;
 }
 .fondo{
     padding-top: 50px;
-
 }
+
+.letras-efecto{text-shadow: 0 0 0.1em #fff, 0 0 0.1em #fff,0 0 0.1em #fff}
+
+
 .fondo h1::selection{
  background-color: transparent ;    
 }
