@@ -23,3 +23,4 @@ function maquina() {
 }
 
 setTimeout(maquina,speed);
+
