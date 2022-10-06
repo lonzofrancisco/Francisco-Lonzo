@@ -67,3 +67,10 @@ footer{
     padding: 1px;
 }
 
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+  }
+  
