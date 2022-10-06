@@ -4,12 +4,15 @@ body{
     background: linear-gradient(90deg, rgba(2,0,36,1) 0% ,rgba(0,162,255,1) 100%);
     
 }
-.perfil img {
-    height: 275px;
+.foto{
+    border-radius: 1000px;
+    width: 25%;
 
 }
 
-
+.img-thumbnail{
+    border-radius: 100px;
+}
 .fondo{
     padding-top: 50px;
 
