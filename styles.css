@@ -3,12 +3,11 @@ body{
     background-image: url(img/12067352_4884841.jpg);    
     background-repeat: no-repeat;
     background-size: cover;
-  
-      
+    height: 100vh;
 }
 .foto{
     border-radius: 1000px;
-    width: 25%;
+    width: 35%;
 
 }
 .titulo{color: rgb(0, 255, 0);}
@@ -51,3 +50,9 @@ footer{
 }
 
 
+@media (max-width: 1000px) {
+    .foto{
+        width: 100%;
+    
+    }
+}
