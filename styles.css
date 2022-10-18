@@ -18,7 +18,7 @@ body{
     padding-top: 50px;
 }
 
-.letras-efecto{text-shadow: 0 0 0.1em #fff, 0 0 0.1em #fff,0 0 0.1em #fff}
+.letras-efecto{text-shadow: 0 0 0.1em #fff, 0 0 0.01em #fff,0 0 0.01em #fff}
 
 
 .fondo h1::selection{
@@ -59,6 +59,12 @@ footer{
 
 .verde{
     color: #3FEB5F;
+    font-size: 120px;    
+}
+
+.verde:hover{
+    color: #3FEB5F;
+    text-shadow: 0 0 0.1em #3FEB5F, 0 0 0.01em #3FEB5F,0 0 0.01em #3FEB5F
 }
 
 .boton-wsp{
@@ -74,3 +80,10 @@ footer{
     min-height: 90vh;
   }
   
+.img-exp{
+    padding-bottom: 45px;
+}
+
+.info{
+    margin-bottom: 25px;
+}

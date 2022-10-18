@@ -5,7 +5,7 @@ var str = text.innerHTML;
 
 text.innerHTML = str.charAt(0);
 
-const speed = 120;
+const speed = 80;
 var i = 0;
 
 function maquina() {
