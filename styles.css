@@ -5,6 +5,15 @@ body{
     background-size: cover;
     height: 100vh;
 }
+.nav-fondo{
+    background: linear-gradient(45deg, rgba(0, 162, 255, 0.561) 0%,  #8d3272a5 100%);
+    
+}
+
+.footer-fondo{
+    background: linear-gradient(45deg, #020f3b52 0%,  #fe806195 100%);
+    
+}
 .foto{
     border-radius: 1000px;
     width: 35%;
@@ -43,11 +52,6 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
-}
-.footer-about-me{
-    background: rgb(0,162,255);
-    background: linear-gradient(45deg, rgba(0,162,255,1) 0%,  rgba(2,0,36,1) 100%);
-
 }
 .enviar{
     padding: 0 10px!important; 
