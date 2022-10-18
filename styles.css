@@ -44,7 +44,11 @@ footer{
     bottom: 0;
     width: 100%;
 }
+.footer-about-me{
+    background: rgb(0,162,255);
+    background: linear-gradient(45deg, rgba(0,162,255,1) 0%,  rgba(2,0,36,1) 100%);
 
+}
 .enviar{
     padding: 0 10px!important; 
 }
