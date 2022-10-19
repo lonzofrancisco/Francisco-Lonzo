@@ -19,7 +19,8 @@ body{
     width: 35%;
 
 }
-.titulo{color: rgb(0, 255, 0);}
+.titulo{color: #d64414 ;
+    text-shadow: 0 0 0.1em #d64414, 0 0 0.1em #d64414,0 0 0.1em #d64414}
 .img-thumbnail{
     border-radius: 100px;
 }
