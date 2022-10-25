@@ -106,5 +106,7 @@ footer{
     transform: scale(1.6);  z-index: 2
 }
 
-.card{
+.card-container{
+    margin: 2rem;
+
 }
