@@ -96,3 +96,6 @@ footer{
 .info{
     margin-bottom: 25px;
 }
+
+.zoom { transition: all .2s ease-in-out; z-index: 2;border-radius: 8px; }
+.zoom:hover { transform: scale(1.6); }
